@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">BasicNewsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firstNewsContent">New Delhi - Ten months into the pandemic, handwashing with soap remains one of our best defenses against the virus, along with other public health measures such as maintaining physical distance, avoiding crowded places, practising cough etiquette and wearing a mask wherever recommended.
+Global Handwashing Day observed annually on October 15 to raise awareness and highlight the importance of handwashing as an effective means of disease prevention – this year marks a critical reminder for the world and the Region that this simple, cost effective practice can save lives.</string>
+    <string name="firstNewsContentDetail">
+        New Delhi - Ten months into the pandemic, handwashing with soap remains one of our best defenses against the virus, along with other public health measures such as maintaining physical distance, avoiding crowded places, practising cough etiquette and wearing a mask wherever recommended.
+        Global Handwashing Day observed annually on October 15 to raise awareness and highlight the importance of handwashing as an effective means of disease prevention – this year marks a critical reminder for the world and the Region that this simple, cost effective practice can save lives.
+        ‘Handwashing has always been one of most effective ways of keeping diseases at bay. It is a simple act that pays in dividends when it comes to keeping ourselves healthy and safe. Handwashing is also one of the key cornerstones of COVID-19 prevention. Now more than ever as we embrace the new normal and live with COVID-19, hand hygiene needs to become an integral part of our daily routine and our lives, as we live through this pandemic, and beyond, to protect us from diseases,’ said Dr Poonam Khetrapal Singh, Regional Director, WHO South-East Asia Region.
+        With COVID-19 transmission mainly spreading between people through direct, indirect (through contaminated objects or surfaces), or close contact with infected people via mouth and nose secretions, washing hands with soap and running water is of critical importance. To stop the spread of COVID-19, along with other COVID appropriate behaviours, the practice of handwashing at regular intervals is a must, after coughing or sneezing, when caring for the sick, after using the toilet, before eating, while preparing food and after handling animals or animal waste. Handwashing after touching common surfaces such as doorknobs or handles, or after one comes back home from visiting a public place will keep ourselves and others around us safe.
+    </string>
+    <string name="secondNewsContent">
+        North Korea has held a military parade to mark the communist state\'s 73rd founding anniversary, but did not display any major ballistic missiles.
+    </string>
+    <string name="secondNewsContentDetail">
+        North Korea has held a military parade to mark the communist state\'s 73rd founding anniversary, but did not display any major ballistic missiles.
+
+State media photos of the night-time parade showed marching soldiers and workers in hazmat suits instead.
+
+Leader Kim Jong-un, who looked visibly slimmer, was seen among the unmasked crowds hugging children.
+
+North Korea is suffering from food shortages and a deepening economic crisis due to the Covid-19 pandemic.
+
+On Thursday, state media released images of fire trucks, tractors, and fireworks at the parade.
+
+One section of the parade marched in what appeared to be bright red hazmat suits and gas masks, which may be a sign that a special force has been created to help prevent the spread of Covid-19, according to our correspondent.
+        North Korea\'s parades serve two functions.
+
+On some occasions, they can be a way to show off new military hardware and ballistic missiles to the outside world in defiance of international sanctions.
+
+But most are a means of shoring up domestic support, especially in difficult times. It is a way to boost morale and encourage the crowds to watch the mass displays of strength and cheer them up with fireworks, even if in some parts of the country they have empty stomachs.
+
+The special red hazmat unit is especially curious and would suggest Pyongyang is keen to show its people that even as the country claims it has no cases of the virus, the constant battle against the spread of Covid-19 goes on.
+
+Pyongyang has held three parades in the space of 12 months - unusually frequent even for North Korea.
+
+Just think of the risk of gathering the masses of unmasked crowds in the capital during a pandemic in a country which has yet to receive any vaccines.
+
+For whatever reason, Kim Jong-un must be making the calculation that the risk is worth it.
+    </string>
+    <string name="thirdNewsContentDetail">
+        Several thousand anti-Taliban fighters are reported to be holding out against the Taliban in a remote valley with a narrow entrance - little more than 30 miles or so from the capital Kabul.
+Its not the first time the dramatic and imposing Panjshir Valley has been a flashpoint in Afghanistan recent turbulent history - having been a stronghold against Soviet forces in the 1980s, and the Taliban in the 90s.
+The group holding out there now - the National Resistance Front of Afghanistan (NRF) - recently reminded the world of the valley strength.
+"The Red Army, with its might, was unable to defeat us… And the Taliban also 25 years ago… they tried to take over the valley and they failed, they faced a crushing defeat," Ali Nazary, the NRF head of foreign relations, told the BBC.
+The long, deep and dusty valley stretches about 75 miles (120km) - south-west to north-east - to the north of the Afghan capital Kabul. It is protected by high mountain peaks - rising 9,800ft (3,000m) above the valley floor. They are an imposing natural barrier - protection for the people living there.
+There is only one narrow road in, which winds its way between large rocky outcrops and the meandering Panjshir River.
+    </string>
+
+    <string name="fourthContentDetail">
+        Chinese state broadcaster CCTV said the phone call was "candid [and] in-depth", adding that it had covered "extensive strategic communication and… issues of mutual concern".
+
+"Whether China and the US can properly handle their relation is critical for the future and destiny of the world," said Mr Xi, according to the CCTV report.
+
+A senior White House official said the call came at the request of President Biden, who had become "exasperated" by the unwillingness of lower level Chinese officials to hold substantive talks with his administration.
+
+Earlier this year, high-level talks between the Biden administration and China were fraught with tension - with officials on both sides exchanging sharp rebukes.
+
+Chinese officials had accused the US of inciting countries "to attack China", while the US said China had "arrived intent on grandstanding".
+
+There are quite a few major issues the two economic giants clash on - with human rights and democracy a major sticking point.
+
+The US accuses China of genocide against the Uighur population in the province of Xinjiang. It also says Beijing is trampling on democratic rights in Hong Kong with a recently introduced security law that critics say is being used to crack down on dissent.
+
+Meanwhile, China has repeatedly told the US to stop interfering in what Beijing considers its internal affairs and accuses Washington of "smearing" the ruling Communist Party.
+
+Theres also the issue of trade. Both countries have been locked in a trade battle that began in 2018 under then President Donald Trump.
+
+The US had imposed tariffs on more than $360bn (£268bn) of Chinese goods, and China has retaliated with tariffs on more than $110bn of US products.
+
+Mr Biden has not pulled back on the tough trade messaging to Beijing of his predecessor - something that has angered China.
+    </string>
+
+    <string name="fifthContentDetail">
+        A man kept the mummified corpse of his mother in a basement for over a year while continuing to receive her pension payments, Austrian police say.
+
+The 89-year-old woman, who reportedly had dementia, is thought to have died of natural causes in June last year.
+
+Her son, 66, is said to have put her body in his cellar and used ice packs and bandages to mask the smell.
+
+Police believe he may have illegally received about €50,000 (£42,000) in payments.
+
+The suspected fraud only came to light after a new postman delivering the womans benefits in the western Tyrol region was refused a request to see her, police said in a statement.
+
+That sparked an investigation, and led to the subsequent grisly discovery.
+
+Police told Austrias public broadcaster ORF that the suspect had also covered his mother with cat litter. "Ultimately, the corpse was mummified," officer Helmuth Gufler said, adding that the man had confessed.
+
+Mr Gufler said the man had no other income, and had told them that the payments would have stopped immediately if he had reported the death, leaving him unable to afford to pay for his mother\'s funeral or to keep the house they had shared.
+
+The suspect also said he had told his brother that their mother was receiving care at a hospital, and that it was not worth visiting as her condition meant it was unlikely she would recognise him, ORF reported.
+    A man kept the mummified corpse of his mother in a basement for over a year while continuing to receive her pension payments, Austrian police say.
+
+The 89-year-old woman, who reportedly had dementia, is thought to have died of natural causes in June last year.
+
+Her son, 66, is said to have put her body in his cellar and used ice packs and bandages to mask the smell.
+
+Police believe he may have illegally received about €50,000 (£42,000) in payments.
+
+The suspected fraud only came to light after a new postman delivering the womans benefits in the western Tyrol region was refused a request to see her, police said in a statement.
+
+    </string>
+</resources>

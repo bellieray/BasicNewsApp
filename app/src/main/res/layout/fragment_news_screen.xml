@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <data>
+
+    </data>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_background"
+    android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        tools:ignore="MissingConstraints"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:padding="5dp"
+            android:src="@drawable/img_profile"
+            app:tint="#555" />
+
+        <EditText
+            android:id="@+id/searchbar"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/edittext"
+            android:fontFamily="@font/poppinsthin"
+            android:hint="Ara..."
+            android:padding="7dp"
+            android:textColorHint="#333" />
+
+        <ImageView
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:padding="5dp"
+            android:src="@drawable/img_search"
+            app:tint="#555" />
+    </LinearLayout>
+    <FrameLayout
+        android:id="@+id/newsScreenFrame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.view.NewsScreenFragment">
+
+        <ScrollView
+            android:layout_width="423dp"
+            android:layout_height="match_parent"
+            tools:ignore="SpeakableTextPresentCheck">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/news1"
+                    android:layout_width="match_parent"
+                    android:layout_height="238dp"
+                    android:layout_marginRight="7dp"
+                    app:cardCornerRadius="5dp"
+                    app:cardElevation="10dp"
+                    android:layout_marginVertical="5dp"
+                    app:cardUseCompatPadding="true"
+                    app:strokeColor="@color/black" />
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/news2"
+                    android:layout_width="match_parent"
+                    android:layout_height="249dp"
+                    android:layout_marginRight="7dp"
+                    app:cardCornerRadius="5dp"
+                    app:cardElevation="10dp"
+                    android:layout_marginVertical="5dp"
+                    app:cardUseCompatPadding="true"
+                    app:strokeColor="@color/black" />
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/news3"
+                    android:layout_width="match_parent"
+                    android:layout_height="249dp"
+                    android:layout_marginRight="7dp"
+                    app:cardCornerRadius="5dp"
+                    app:cardElevation="10dp"
+                    android:layout_marginVertical="5dp"
+                    app:cardUseCompatPadding="true"
+                    app:strokeColor="@color/black" />
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/news4"
+                    android:layout_width="match_parent"
+                    android:layout_height="249dp"
+                    android:layout_marginRight="10dp"
+                    app:cardCornerRadius="5dp"
+                    app:cardElevation="10dp"
+                    android:layout_marginVertical="5dp"
+                    app:cardUseCompatPadding="true"
+                    app:strokeColor="@color/black" />
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/news5"
+                    android:layout_width="match_parent"
+                    android:layout_height="249dp"
+                    android:layout_marginRight  ="7dp"
+                    android:layout_marginVertical="5dp"
+                    app:cardCornerRadius="5dp"
+                    app:cardElevation="10dp"
+                    app:cardUseCompatPadding="true"
+                    app:strokeColor="@color/black" />
+
+            </LinearLayout>
+        </ScrollView>
+    </FrameLayout>
+
+</LinearLayout>
+</layout>
